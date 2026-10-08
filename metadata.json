@@ -1,0 +1,6 @@
+{
+  "name": "MV Conectar — Conecte sua Empresa ao Digital",
+  "description": "Presença digital, tecnologia e inovação para conectar sua empresa aos seus clientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
